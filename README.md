@@ -72,3 +72,4 @@ The system also displays:
 ### Install required packages:
 ```bash
 pip install -r requirements.txt
+streamlit run app.py
